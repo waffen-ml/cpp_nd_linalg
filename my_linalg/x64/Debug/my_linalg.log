@@ -1,0 +1,29 @@
+﻿  my_linalg.cpp
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(50,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(66,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(224,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(351,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(361,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(365,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(403,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(415,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(446,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(482,57): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(482,57): warning C4267:         with
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(482,57): warning C4267:         [
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(482,57): warning C4267:             _Ty=int
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(482,57): warning C4267:         ]
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(495,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(505,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(553,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(565,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(637,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(650,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(701,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\source\repos\my_linalg\my_linalg.cpp(701,24): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\VisualStudio\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+D:\VisualStudio\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4267:         with
+D:\VisualStudio\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4267:         [
+D:\VisualStudio\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4267:             _Ty1=int
+D:\VisualStudio\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4267:         ]
+  my_linalg.vcxproj -> C:\Users\Илья\source\repos\my_linalg\x64\Debug\my_linalg.exe
